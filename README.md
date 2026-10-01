@@ -1,4 +1,4 @@
-# Hi, I'm Kani 👋
+# Hi, I'm Kanishk 👋
 
 ### AI/ML • Data Science • Intelligent Systems
 
