@@ -14,7 +14,7 @@
 
 <br><br>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.linkedin.com/in/kanishk27"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="kanishk.ac.official@gmail.com"><img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://www.linkedin.com/in/kanishk27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:kanishk.ac.official@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="#flagship-projects"><img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
